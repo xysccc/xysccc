@@ -7,7 +7,6 @@
 -->
 # <div style="font-size:30px;" >Hi This  is Xys😎</div>
 ><div style="font-size:20px">A beginner who loves the front end😏😏</div>
-
 <br/>
 
 ## Orientation 🤖
