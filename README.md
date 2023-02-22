@@ -3,11 +3,10 @@
  * @Author: YuShu Xiao
  * @Date: 2023-02-22 19:33:41
  * @LastEditors: YuShu Xiao
- * @LastEditTime: 2023-02-22 20:42:10
+ * @LastEditTime: 2023-02-22 20:43:12
 -->
 # <div style="font-size:30px;" >Hi This  is Xys😎</div>
 ><div style="font-size:30px">A beginner who loves the front end😏😏</div>
-<br/>
 ## Orientation 🤖
 <div align="center"><img src="./assets/html.svg"/>
 <img src="./assets/css3.svg"/>
