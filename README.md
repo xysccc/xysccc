@@ -13,11 +13,11 @@
 <div align="center"><img src="./assets/html.svg"/>
 <img src="./assets/css3.svg"/>
 <img src="./assets/js.svg"/>
-<img src="./assets/vue.svg"/></div>
+<img src="./assets/vue.svg"/>
 
 <!-- Github Stats -->
-
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xysccc&show_icons=true)
+</div>
+
+
 
